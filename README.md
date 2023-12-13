@@ -1,2 +1,2 @@
-# Testeat
-Base de datos sobre las características de los clientes de un banco comercial. 
+# Proyectos realizados durante el Bootcamp
+Cada uno de los proyectos se centra en someter a prueba los conocimientos y herramientas adquirirdas con distitnas bases de datos y distintos objetivos.
